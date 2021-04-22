@@ -7,7 +7,7 @@ In this experiment, 2 physical workers, 1 physical PS (Parameter Server) and 1 s
 
 ## Getting Started
 ```
-$ git clone https://github.com/ATP-NSDI/ATP.git
+$ git clone https://github.com/in-ATP/ATP.git
 ```
 
 ### Run Tofino Switch 
