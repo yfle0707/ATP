@@ -1,6 +1,6 @@
 # Benchmark
 
-## Requirment - Run with Signal Switch
+## Requirment - Run with Single Switch
 
 In this experiment, 2 physical workers, 1 physical PS (Parameter Server) and 1 switch is used.
 
